@@ -64,7 +64,7 @@ After the reload, verify that you can access both routers using the new enable s
 
 ## Cisco 3560 Switch Password Recovery
 
-**Note:** Packet Tracer behaves a little differently from real hardware, but the switch password recovery process is similar.
+**Note:** Packet Tracer behaves a little differently from real hardware, but with a few tweaks, we can make the switch password recovery process similar.
 
 1. **Power cycle the switch** using this icon in Packet Tracer:
 
