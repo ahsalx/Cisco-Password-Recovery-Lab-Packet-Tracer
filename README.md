@@ -128,5 +128,3 @@ After the reload, verify that you can access both routers using the new enable s
 
 
 *The password `cisco` is used for this lab only. Use a strong, unique password on real devices.*
-
-**Credit to :** [David Bombal](https://davidbombal.com/)
