@@ -123,9 +123,6 @@ After the reload, verify that you can access both routers using the new enable s
 - [Understanding Configuration Register Usage](https://www.cisco.com/c/en/us/support/docs/routers/10000-series-routers/50421-config-register-use.html)
 ## Cisco Documentation (PDF)
 
-
-## Additional Cisco Documentation (PDF)
-
 1. [Catalyst 3560 Software Configuration Guide](Catalyst%203560%20Software%20Configuration%20Guide%2C%20Release%2012.2%2852%29SE.pdf)
 2. [Troubleshooting Guide for the Cisco 4000 Series Integrated Services Routers](Troubleshooting%20Guide%20for%20the%20Cisco%204000%20Series%20Integrated%20Services%20Router.pdf)
 
